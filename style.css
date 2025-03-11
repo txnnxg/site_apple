@@ -1,0 +1,11 @@
+:root {
+    --nav-color: #FFFFFF;
+    --nav-text-color: #161617;
+    --text-color: #F5F5F7;
+    --second-text-color: #FAFAFC;
+    --text-black-cod-gray: #1E1E1E;
+    --text-black-shark: #1D1D1F;
+}
+.linear {
+    background: linear-gradient(to top, #0C1247, #30337D, #505DAD, #7D8ED1, #AEBCE6, #FAFAFC);
+}
